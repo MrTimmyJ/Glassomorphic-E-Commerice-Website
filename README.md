@@ -40,13 +40,14 @@ Users can explore products, filter the catalog, and view detailed product descri
 
 📁 Code Structure
 
-Glassomorphic-E-Commerce-Website/
-├── index.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Home page with introductory content and highlights
-├── about.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; About Us page with company background
-├── catalog.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Product catalog with category/sorting filters
-├── product.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Detailed view for individual products
-├── styles.css &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Glassmorphism-inspired CSS styles
-├── scripts.js &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Catalog filters and interactive logic
+.<br>
+Glassomorphic-E-Commerce-Website/<br>
+├── index.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Home page with introductory content and highlights<br>
+├── about.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; About Us page with company background<br>
+├── catalog.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Product catalog with category/sorting filters<br>
+├── product.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Detailed view for individual products<br>
+├── styles.css &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Glassmorphism-inspired CSS styles<br>
+├── scripts.js &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Catalog filters and interactive logic<br>
 
 ⚙️ How It Works
 
