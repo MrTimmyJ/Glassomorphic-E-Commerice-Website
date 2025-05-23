@@ -6,10 +6,10 @@ Date: September 2024
 
 ## Overview
 
-A sleek, modern e-commerce website built using HTML, CSS, and JavaScript, featuring a stylish glassmorphism UI design.
+&nbsp;&nbsp;&nbsp;&nbsp;A sleek, modern e-commerce website built using HTML, CSS, and JavaScript, featuring a stylish glassmorphism UI design.
 The website includes dynamic catalog filtering, detailed product views,  dark mode, and a responsive layout optimized for all devices.
 
-The Glassomorphic E-Commerce Website is a front-end project showcasing a fictional e-commerce store with a polished, futuristic design.
+&nbsp;&nbsp;&nbsp;&nbsp;The Glassomorphic E-Commerce Website is a front-end project showcasing a fictional e-commerce store with a polished, futuristic design.
 Users can explore products, filter the catalog, and view detailed product descriptions—all presented with a glass-like UI effect that elevates the browsing experience.
 
 🧩 Features
@@ -77,7 +77,7 @@ Glassomorphic-E-Commerce-Website/<br>
 
     To run locally:
 
-      git clone https://github.com/yourusername/Glassomorphic-E-Commerce-Website.git
+      git clone https://github.com/MrTimmyJ/Glassomorphic-E-Commerce-Website.git
       cd Glassomorphic-E-Commerce-Website
       open index.html (or open in browser of your choice)
 
@@ -95,4 +95,4 @@ Glassomorphic-E-Commerce-Website/<br>
 
 🪪 License
 
-This project is open source and available under the [MIT License](https://opensource.org/license/mit).
+This open-source project is available under the [MIT License](https://opensource.org/license/mit).
